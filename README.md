@@ -20,6 +20,7 @@ You can clone the Tennis API project from GitHub using the following command:
 
 ```bash
 git clone https://github.com/moezbenjannet/Tennis.git
+```
 
 ## Open the project
 
